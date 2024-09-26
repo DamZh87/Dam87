@@ -99,3 +99,24 @@ body {
   background-color: #2e2e2e;
   border: none;
 }
+
+.btn__filled:hover{
+  cursor: pointer;
+  background-color: #000000;
+  color: #c9c8c8;
+  border-radius: 5px;
+  border: 1px solid #6b6a6a;
+  font-weight: bold;
+  padding: 10px 15px 10px 15px;
+  
+}
+.btn__outlined:hover{
+  cursor: pointer;
+  color: #c9c8c8;
+  border-radius: 5px;
+  border: 1px solid #2e2e2e;
+  font-weight: bold;
+  padding: 10px 15px 10px 15px;
+  background-color: #2e2e2e;
+  
+}
